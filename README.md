@@ -22,7 +22,17 @@ Despues creamos un sitio para que este cree a su vez un grupo  de aplicacion en 
 .NET8 Hosting Bundle 
 http://localhost:81/swagger/index.html
 
+## ¿Que es un Hosting?
+Es un alojamiento estandar que nos permite subir una aplicacion a internet , hay diferentes tipos de hosting , en este caso para .NET toca usar un hosting propio para .NET.
+
+## ¿Ques un Servidor? 
+Es mas complejo tambien podemos subir aplicaciones a internet pero a diferencia del Hosting el servidor requiere ciertas configuraciones mas avanzadas por parte del usaurio para 
+que asi este pueda alojar con caracteristicas de la aplicacion o servicio que queramos subir a internet.
+# Servidor Fisico
+# Servidor VPS
+
 ## Deploy BackEnd API en .NET en Hosting IIS Publico. Servidor FTP/FTPS 
+
 # 1 Creamos cuenta en el Hosting de SOMEE.COM
 Creamos cuenta y elegimos la opcion gratuita en este caso con la informacion nombre del dominio,titulo,etc.
 
