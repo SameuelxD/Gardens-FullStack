@@ -38,3 +38,12 @@ Creamos cuenta y elegimos la opcion gratuita en este caso con la informacion nom
 
 ### 2 Hacemos la publicacion del proyecto en Visual Studio 2022.
 Hacemos la publicacion del proyecto a un Servidor FTP/FTPS 
+
+## Deploy FrontEnd Interfaces en VueJs en IIS Localmente.
+### 1 Comando npm run build
+Mediante el comando npm run build en la consola de Vuejs vamos a generar una carpeta cono todos los archivos correspondientes al deploy en el lado del cliente , carpeta llamada
+"dist".
+
+### 2 Configurar IIS para Vuejs
+Vamos a IIS y creamos un nuevo grupo y sitio con la configuracion correspondiente para que sea compatible con los archivos de Vuejs.
+
